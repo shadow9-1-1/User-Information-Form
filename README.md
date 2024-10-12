@@ -41,7 +41,7 @@ This project is a simple web application built using **Flask** that collects use
 2. Navigate to the project directory:
 
    ```bash
-   cd user-info-flask-app
+   cd User-Information-Form
    ```
 
 3. Create a virtual environment:
